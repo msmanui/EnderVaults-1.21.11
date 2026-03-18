@@ -1,0 +1,4 @@
+// EnderVaults settings configuration
+rootProject.name = 'EnderVaults'
+include 'api'
+include 'bukkit'
